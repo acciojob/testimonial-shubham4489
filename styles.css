@@ -1,23 +1,24 @@
 /*  your css code here. If applicable */
-#div{
-	background-color:#f5f5f5
-	padding:10px
+div{
+	background-color:#f5f5f5;
+	padding:10px;
 }
 #eg1{
-	padding:10px
-	border:1px solid 
-	background-color:white
+	padding:0px;
+	border:1px solid #e5e5e5;
+	background-color:white;
+	margin-block:10px;
 }
 #eg2{
-	padding:10px
-	border:1px solid
-	background-color:white
+	padding:0px;
+	border:1px solid #e5e5e5;
+	background-color:white;
 }
 #eg3{
-	text-align:right
-	font-style:italic
+	text-align:right;
+	font-style:italic;
 }
 #eg4{
-	text-align:right
-	font-style:italic
+	text-align:right;
+	font-style:italic;
 }
